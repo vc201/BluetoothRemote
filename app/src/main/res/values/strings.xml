@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth Remote</string>
+    <string name="title_activity_media">MediaActivity</string>
+</resources>
